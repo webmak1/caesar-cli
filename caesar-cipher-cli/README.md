@@ -6,7 +6,7 @@
 
 npm:
 
-`git clone https://github.com/uaolmer/nodejs-course.git`
+`git clone https://github.com/uaolmer/caesar-cli.git`
 
 `cd caesar-cli`
 
