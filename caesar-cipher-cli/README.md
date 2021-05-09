@@ -8,9 +8,11 @@ npm:
 
 `git clone https://github.com/uaolmer/nodejs-course.git`
 
-`cd nodejs-course/caesar-cipher-cli/`
+`cd caesar-cli`
 
-`npm install`
+`git checkout --track origin/caesar-cipher`
+
+`cd caesar-cipher-cli`
 
 
 ## Использование
